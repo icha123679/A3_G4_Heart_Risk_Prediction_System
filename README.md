@@ -1,4 +1,4 @@
-===========================Heart Risk Prediction System=============================================
+=========Heart Risk Prediction System=================
 
 
 **1. Project Title & Objective**
